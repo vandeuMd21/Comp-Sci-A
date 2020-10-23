@@ -6,7 +6,7 @@ public class FractionTest2 {
     	System.out.println("Enter numerator and denominator of first fraction seperated by a space ");
     	int num1 = scan.nextInt();
     	int den1 = scan.nextInt();
-    	
+    	                                // This creates a user input and allows for these variable to be assigned in the addFrac,etc.
     	System.out.println("Enter numerator and denominator of second fraction seperated by a space");
     	int num2 = scan.nextInt();
     	int den2 = scan.nextInt();
